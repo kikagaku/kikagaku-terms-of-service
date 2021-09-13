@@ -1,6 +1,6 @@
 # 利用規約について
 
-原則「[一般ユーザー向け利用規約](https://github.com/kikagaku/kikagaku-terms-of-service/blob/master/README.md#%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC)」が適用されますが、AI・データサイエンス人材育成プログラムの方には「[AI・データサイエンス人材育成プログラム向け利用規約](https://github.com/kikagaku/kikagaku-terms-of-service/blob/master/README.md#ai%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC)」が適用されます。ご自身に適用されるものをご確認ください。
+原則「[一般ユーザー向け利用規約](https://github.com/kikagaku/kikagaku-terms-of-service/blob/master/README.md#%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%91%E3%81%91%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84)」が適用されますが、AI・データサイエンス人材育成プログラムの方には「[AI・データサイエンス人材育成プログラム向け利用規約](https://github.com/kikagaku/kikagaku-terms-of-service/blob/master/README.md#ai%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%90%91%E3%81%91%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84)」が適用されます。ご自身に適用されるものをご確認ください。
 
 
 ## 一般ユーザー向け利用規約
